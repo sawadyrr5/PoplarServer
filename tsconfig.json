@@ -3,7 +3,7 @@
         "target": "es2017",
         "module": "commonjs",
         "declaration": true,
-        "outDir": "./out",
+        "outDir": "./",
         "removeComments": true,
         "sourceMap": true,
         "strict": true,
